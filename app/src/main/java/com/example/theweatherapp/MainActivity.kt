@@ -77,7 +77,7 @@ fun weatherScreen() {
         mutableStateOf("")
     }
 
-    val apiKey = "YOUR_API_KEY"
+    val apiKey = "e5b5b45748e5422d886201119261704"
 
     Box(
         modifier = Modifier
