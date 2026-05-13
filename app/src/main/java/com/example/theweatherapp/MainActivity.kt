@@ -83,7 +83,7 @@ fun weatherScreen() {
         modifier = Modifier
             .fillMaxSize()
             .paint(
-                painter = painterResource(id = R.drawable.weather_background),
+                painter = painterResource(id = R.drawable.weather_bg),
                 contentScale = ContentScale.FillBounds
             )
     ) {
